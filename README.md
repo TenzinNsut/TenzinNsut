@@ -14,7 +14,7 @@
 
 
 <!-- Social icons section -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://twitter.com/Tenzin47790731"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
@@ -24,7 +24,7 @@
   <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
-</p>
+</p> -->
 
 Hi there! My name is Tenzin Lekshey a 20year old who was born and raised in the mountains of northern India. Currently pursuing Bachelor of Technology in Computer Science & Engineering with a specialization in Big Data Analytics. I have a great passion for programming and designing clean and intuitive user experiences for web/mobile applications. My ultimate goal is to make valuable contributions to the world utilizing my passion.
 
@@ -39,7 +39,7 @@ Hi there! My name is Tenzin Lekshey a 20year old who was born and raised in the 
 **`📫 How to reach me`**
 <!-- <p>📺 Get YouTube Cards for your profile at <a href="https://itenzin.herokuapp.com/">Portfolio Website</a></p>
  -->
-[<img src="https://custom-icon-badges.demolab.com/badge/-MyPortfolioWebsite-crimson?style=for-the-badge&logo=video&logoColor=white"/>](https://itenzin.herokuapp.com/)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Portfolio-Website-crimson?style=for-the-badge&logo=video&logoColor=white"/>](https://itenzin.herokuapp.com/)
 
 
 **`📊 Github Stats`**
@@ -49,7 +49,7 @@ Hi there! My name is Tenzin Lekshey a 20year old who was born and raised in the 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=TenzinNsut&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
-
+<!-- 
 -  I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -57,4 +57,4 @@ Hi there! My name is Tenzin Lekshey a 20year old who was born and raised in the 
 -
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->
