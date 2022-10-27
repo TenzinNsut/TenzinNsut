@@ -37,7 +37,9 @@ Hi there! My name is Tenzin Lekshey a 20year old who was born and raised in the 
 - NodeJS
 
 **`📫 How to reach me`**
-
+<span class="material-symbols-outlined">
+language
+</span>
 
 **`📊 Github Stats`**
 
