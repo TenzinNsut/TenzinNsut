@@ -39,7 +39,7 @@ Hi there! My name is Tenzin Lekshey a 20year old who was born and raised in the 
 **`📫 How to reach me`**
 <!-- <p>📺 Get YouTube Cards for your profile at <a href="https://itenzin.herokuapp.com/">Portfolio Website</a></p>
  -->
-[<img src="https://custom-icon-badges.demolab.com/badge/-PortfolioWebsite-crimson?style=for-the-badge&logo=video&logoColor=white"/>](https://itenzin.herokuapp.com/)
+[<img src="https://custom-icon-badges.demolab.com/badge/-PortfolioWebsite-crimson?style=for-the-badge&logo=video&logoColor=white&target=_blank"/>](https://itenzin.herokuapp.com/)
 
 
 **`📊 Github Stats`**
