@@ -1,12 +1,18 @@
-### Hi there 👋
+# Hi There👋
 
-<!--
-**TenzinNsut/TenzinNsut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**'Web Developer'**
 
-Here are some ideas to get you started:
+Hi there! My name is Tenzin Lekshey a 20year old who was born and raised in the mountains of northern India. Currently pursuing Bachelor of Technology in Computer Science & Engineering with a specialization in Big Data Analytics. I have a great passion for programming and designing clean and intuitive user experiences for web/mobile applications. My ultimate goal is to make valuable contributions to the world utilizing my passion.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+**'🌱Tech Stack'**
+HTML
+CSS
+JavaScript
+NodeJS
+
+
+-  I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
