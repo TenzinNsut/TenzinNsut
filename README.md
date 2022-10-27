@@ -37,9 +37,10 @@ Hi there! My name is Tenzin Lekshey a 20year old who was born and raised in the 
 - NodeJS
 
 **`📫 How to reach me`**
-<span class="material-symbols-outlined">
-language
-</span>
+<!-- <p>📺 Get YouTube Cards for your profile at <a href="https://itenzin.herokuapp.com/">Portfolio Website</a></p>
+ -->
+[<img src="https://custom-icon-badges.demolab.com/badge/-MyPortfolioWebsite-crimson?style=for-the-badge&logo=video&logoColor=white"/>](https://itenzin.herokuapp.com/)
+
 
 **`📊 Github Stats`**
 
