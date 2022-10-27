@@ -1,11 +1,11 @@
-# Hi, there👋
+#                                           ABOUT ME
 
 **`Web Developer`**
 
 Hi there! My name is Tenzin Lekshey a 20year old who was born and raised in the mountains of northern India. Currently pursuing Bachelor of Technology in Computer Science & Engineering with a specialization in Big Data Analytics. I have a great passion for programming and designing clean and intuitive user experiences for web/mobile applications. My ultimate goal is to make valuable contributions to the world utilizing my passion.
 
 
-**'🌱Tech Stack'**
+**`🌱Tech Stack`**
 HTML
 CSS
 JavaScript
