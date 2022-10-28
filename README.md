@@ -27,7 +27,7 @@
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p> -->
 
-Hi there! My name is Tenzin Lekshey a 20year old who was born and raised in the mountains of northern India. Currently pursuing Bachelor of Technology in Computer Science & Engineering with a specialization in Big Data Analytics. I have a great passion for programming and designing clean and intuitive user experiences for web/mobile applications. My ultimate goal is to make valuable contributions to the world utilizing my passion.
+Hi there! My name is Tenzin Lekshey a 20year old who was born and raised in the mountains of northern India. Currently pursuing Bachelor of Technology in Computer Science & Engineering with a specialization in Big Data Analytics. I have a great passion for programming and designing clean and interactive websites for better user experience. My ultimate goal is to make valuable contributions to the world utilizing my passion.
 
 
 **`🌱Tech Stack`**
