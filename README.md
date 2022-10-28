@@ -40,6 +40,7 @@ Hi there! My name is Tenzin Lekshey a 20year old who was born and raised in the 
 **`📫 How to reach me`**
 <!-- <p>📺 Get YouTube Cards for your profile at <a href="https://itenzin.herokuapp.com/">Portfolio Website</a></p>
  -->
+<a class="Link--primary" href="mailto:besg4u@gmail.com">mail me</a>
 [<img src="https://custom-icon-badges.demolab.com/badge/-PortfolioWebsite-crimson?style=for-the-badge&logo=video&logoColor=white" target=_blank/>](https://itenzin.herokuapp.com/)
 
 <!-- Social icons section -->
