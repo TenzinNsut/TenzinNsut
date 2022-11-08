@@ -45,9 +45,9 @@ Hi there! My name is Tenzin Lekshey a 20year old who was born and raised in the 
 
 <!-- Social icons section -->
 <p align="left">
-<a href="https://www.linkedin.com/in/tenzin-lekshey-66120a211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pankaj-singh-527465197" height="30" width="40" /></a> 
-<a href="https://twitter.com/Tenzin47790731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pankaj_singh___" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ten_zin_10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pankaj_singh_____/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tenzin-lekshey-66120a211/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pankaj-singh-527465197" height="30" width="40" /></a> 
+<a href="https://twitter.com/Tenzin47790731" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pankaj_singh___" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ten_zin_10/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pankaj_singh_____/" height="30" width="40" /></a>
 </p>
 
 
