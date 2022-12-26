@@ -41,7 +41,7 @@ Hi there! My name is Tenzin Lekshey a 20year old who was born and raised in the 
 <!-- <p>📺 Get YouTube Cards for your profile at <a href="https://itenzin.herokuapp.com/">Portfolio Website</a></p>
  -->
 <!-- <a class="Link--primary" href="mailto:besg4u@gmail.com">mail me</a> -->
-[<img src="https://custom-icon-badges.demolab.com/badge/-PortfolioWebsite-crimson?style=for-the-badge&logo=video&logoColor=white" target=_blank/>](https://itenzin.herokuapp.com/)
+[<img src="https://custom-icon-badges.demolab.com/badge/-PortfolioWebsite-crimson?style=for-the-badge&logo=video&logoColor=white" target=_blank/>](https://itenz.cyclic.app)
 
 <!-- Social icons section -->
 <p align="left">
@@ -51,11 +51,11 @@ Hi there! My name is Tenzin Lekshey a 20year old who was born and raised in the 
 </p>
 
 
-**`📊 Github Stats`**
+<!-- **`📊 Github Stats`**
 
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=TenzinNsut&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
+ -->
 **`Languages and Tools:`** 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TenzinNsut&show_icons=true&locale=en&layout=compact" alt="pankajsingh2003" /></p>
