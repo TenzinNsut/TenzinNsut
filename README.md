@@ -27,7 +27,7 @@
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p> -->
 
-Hi there! My name is Tenzin Lekshey a Student, currently pursuing Bachelor of Technology in Computer Science & Engineering with a specialization in Big Data Analytics. I have a great passion for programming and designing clean and interactive websites for better user experience.
+Hi there! My name is Tenzin Lekshey a student, currently pursuing Bachelor of Technology in Computer Science & Engineering with a specialization in Big Data Analytics. I have a great passion for programming and designing clean and interactive websites for better user experience.
 
 **`🌱Tools`**
 
