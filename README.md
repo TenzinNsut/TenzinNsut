@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer;Always%20learning%20new%20things.;HTML%20CSS%20JavaScript%20;Node.js%20Express.js%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Love Coding;If%20you%20want%20to%20make%20the%20wrong%20decision,%20ask%20everyone.&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 
@@ -29,7 +29,7 @@
 
 Hi there! My name is Tenzin Lekshey a 20year old who was born and raised in the mountains of northern India. Currently pursuing Bachelor of Technology in Computer Science & Engineering with a specialization in Big Data Analytics. I have a great passion for programming and designing clean and interactive websites for better user experience.
 
-**`🌱Tech Stack`**
+**`🌱Tools`**
 
 - HTML
 - CSS
