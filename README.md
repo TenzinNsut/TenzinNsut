@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Languages;Java%20Python%20JavaScript%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Languages;Python%20Java%20JavaScript%20& lines-&font=domains;Machine Learning%20DeepLearnin%20Front-End Development&Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 
@@ -27,14 +27,12 @@
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p> -->
 
-Hi there! My name is Tenzin Lekshey a student, currently pursuing Bachelor of Technology in Computer Science & Engineering with a specialization in Big Data Analytics. I have a great passion for programming and designing clean and interactive websites for better user experience.
+Hi, I’m Tenzin Lekehey, currently pursuing a degree in Computer Science at Netaji Subhas University of Technology, Delhi. My interests include Front-End Development, Machine Learning, and Deep Learning. I love working on projects that solve real-world problems and expand my knowledge.
 
-**`🌱Tools`**
+Back in school, I was always interested in computers, and in the 10th grade, I was introduced to my first programming language, Python. This drove my passion for programming. After entering university, I wanted to build a portfolio website, so I learned web development fundamentals like HTML, CSS, and JavaScript, and eventually built a portfolio website for myself. The introduction of ChatGPT sparked my interest in AI, so in my third year, when I was introduced to data science and machine learning, I doubled down on it, working on projects to deepen my understanding of this domain.
 
-- HTML
-- CSS
-- JavaScript
-- NodeJS
+Throughout my academic journey, I have gained knowledge and hands-on experience in various areas, including Java, Python, web development, machine learning, and deep learning. I have applied these skills to develop several projects, such as a portfolio website, a spam email detector using machine learning techniques, a plant disease prediction system employing Convolutional Neural Networks (CNN) and an Ayurveda chatbot utilizing retrieval augmented generation (RAG). 
+
 
 **`📫 How to reach me`**
 <!-- <p>📺 Get YouTube Cards for your profile at <a href="https://itenzin.herokuapp.com/">Portfolio Website</a></p>
