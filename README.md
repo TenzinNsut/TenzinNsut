@@ -38,7 +38,7 @@ Throughout my academic journey, I have gained knowledge and hands-on experience 
 <!-- <p>📺 Get YouTube Cards for your profile at <a href="https://itenzin.herokuapp.com/">Portfolio Website</a></p>
  -->
 <!-- <a class="Link--primary" href="mailto:besg4u@gmail.com">mail me</a> -->
-[<img src="https://custom-icon-badges.demolab.com/badge/-PortfolioWebsite-crimson?style=for-the-badge&logo=video&logoColor=white" target=_blank/>](https://itenz.cyclic.app)
+[<img src="https://custom-icon-badges.demolab.com/badge/-PortfolioWebsite-crimson?style=for-the-badge&logo=video&logoColor=white" target=_blank/>](https://itenzin.onrender.com)
 
 <!-- Social icons section -->
 <p align="left">
