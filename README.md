@@ -2,7 +2,7 @@
 
 
 <h3 align="center">
-  Welcome to Tenzin Lekshey's profile!
+  Welcome to my profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -27,12 +27,11 @@
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p> -->
 
-Hi, I’m Tenzin Lekehey, currently pursuing a degree in Computer Science at Netaji Subhas University of Technology, Delhi. My interests include Front-End Development, Machine Learning, and Deep Learning. I love working on projects that solve real-world problems and expand my knowledge.
+Hi, I’m Tenzin Lekehey, currently pursuing a degree in Computer Science at Netaji Subhas University of Technology, Delhi. Passionate about Full-Stack Web Development, especially the MERN stack (MongoDB, Express, React, Node.js). I love working on projects that solve real-world problems and expand my knowledge. Currently learning and improving my programming skills, exploring system design, scalable applications, and diving deeper into Data Structures & Algorithms.
 
-Back in school, I was always interested in computers, and in the 10th grade, I was introduced to my first programming language, Python. This drove my passion for programming. After entering university, I wanted to build a portfolio website, so I learned web development fundamentals like HTML, CSS, and JavaScript, and eventually built a portfolio website for myself. The introduction of ChatGPT sparked my interest in AI, so in my third year, when I was introduced to data science and machine learning, I doubled down on it, working on projects to deepen my understanding of this domain.
+Back in school, I was always interested in computers, and in the 10th grade, I was introduced to my first programming language, Python. This drove my passion for programming. After entering university, I wanted to build a portfolio website, so I learned web development fundamentals like HTML, CSS, and JavaScript, and eventually built a portfolio website for myself. I enjoy building real-world projects — from developer networking platforms to weather apps — that solve problems and improve user experience.
 
 Throughout my academic journey, I have gained knowledge and hands-on experience in various areas, including Java, Python, web development, machine learning, and deep learning. I have applied these skills to develop several projects, such as a portfolio website, a spam email detector using machine learning techniques, a plant disease prediction system employing Convolutional Neural Networks (CNN) and an Ayurveda chatbot utilizing retrieval augmented generation (RAG). 
-
 
 **`📫 How to reach me`**
 <!-- <p>📺 Get YouTube Cards for your profile at <a href="https://itenzin.herokuapp.com/">Portfolio Website</a></p>
@@ -42,7 +41,7 @@ Throughout my academic journey, I have gained knowledge and hands-on experience 
 
 <!-- Social icons section -->
 <p align="left">
-<a href="https://www.linkedin.com/in/tenzin-lekshey-66120a211/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pankaj-singh-527465197" height="30" width="40" /></a> 
+<!-- <a href="https://www.linkedin.com/in/tenzin-lekshey-66120a211/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pankaj-singh-527465197" height="30" width="40" /></a>  -->
 <a href="https://twitter.com/Tenzin47790731" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pankaj_singh___" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ten_zin_10/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pankaj_singh_____/" height="30" width="40" /></a>
 </p>
