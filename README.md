@@ -31,7 +31,6 @@ Hi, I’m Tenzin Lekehey, currently pursuing a degree in Computer Science at Net
 
 Back in school, I was always interested in computers, and in the 10th grade, I was introduced to my first programming language, Python. This drove my passion for programming. After entering university, I wanted to build a portfolio website, so I learned web development fundamentals like HTML, CSS, and JavaScript, and eventually built a portfolio website for myself. I enjoy building real-world projects — from developer networking platforms to weather apps — that solve problems and improve user experience.
 
-Throughout my academic journey, I have gained knowledge and hands-on experience in various areas, including Java, Python, web development, machine learning, and deep learning. I have applied these skills to develop several projects, such as a portfolio website, a spam email detector using machine learning techniques, a plant disease prediction system employing Convolutional Neural Networks (CNN) and an Ayurveda chatbot utilizing retrieval augmented generation (RAG). 
 
 **`📫 How to reach me`**
 <!-- <p>📺 Get YouTube Cards for your profile at <a href="https://itenzin.herokuapp.com/">Portfolio Website</a></p>
