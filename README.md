@@ -37,13 +37,13 @@ Back in school, I was always interested in computers, and in the 10th grade, I w
 <!-- <p>📺 Get YouTube Cards for your profile at <a href="https://itenzin.herokuapp.com/">Portfolio Website</a></p>
  -->
 <!-- <a class="Link--primary" href="mailto:besg4u@gmail.com">mail me</a> -->
-[<img src="https://custom-icon-badges.demolab.com/badge/-PortfolioWebsite-crimson?style=for-the-badge&logo=video&logoColor=white" target=_blank/>](https://itenzin.onrender.com)
+[<img src="https://custom-icon-badges.demolab.com/badge/-PortfolioWebsite-crimson?style=for-the-badge&logo=video&logoColor=white" target=_blank/>](https://itenzin.vercel.app/)
 
 <!-- Social icons section -->
 <p align="left">
 <!-- <a href="https://www.linkedin.com/in/tenzin-lekshey-66120a211/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pankaj-singh-527465197" height="30" width="40" /></a>  -->
-<a href="https://twitter.com/Tenzin47790731" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pankaj_singh___" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ten_zin_10/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pankaj_singh_____/" height="30" width="40" /></a>
+<a href="https://twitter.com/Tenzin47790731" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Tenzin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ten_zin_10/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Tenzin Insta" height="30" width="40" /></a>
 </p>
 
 
