@@ -28,10 +28,42 @@
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p> -->
 
-Hi, I’m Tenzin Lekehey, currently pursuing a degree in Computer Science at Netaji Subhas University of Technology, Delhi. Passionate about Full-Stack Web Development, especially the MERN stack (MongoDB, Express, React, Node.js). I love working on projects that solve real-world problems and expand my knowledge. Currently learning and improving my programming skills, exploring system design, scalable applications, and diving deeper into Data Structures & Algorithms.
+👋 Hi, I’m Tenzin Lekshey, a Computer Science graduate from Netaji Subhas University of Technology (NSUT), Delhi, with a strong interest in building practical and scalable software systems.
 
-Back in school, I was always interested in computers, and in the 10th grade, I was introduced to my first programming language, Python. This drove my passion for programming. After entering university, I wanted to build a portfolio website, so I learned web development fundamentals like HTML, CSS, and JavaScript, and eventually built a portfolio website for myself. I enjoy building real-world projects — from developer networking platforms to weather apps — that solve problems and improve user experience.
+💼 I have experience working as an IT Applications Intern in the Digital Workspace Services (DWS) team at AVASO Technology Solutions, where I contributed to enterprise automation and AI-assisted workflows. My work involved designing, testing, validating, and documenting workflows using Microsoft Copilot Studio and Power Automate.
+I was also involved in a Zero-Touch Automation initiative that automated ServiceNow ticket creation from incoming emails, reducing manual effort and improving operational efficiency through system-integrated workflows.
 
+🧩 Alongside this, I have a strong foundation in full-stack web development, particularly with the MERN stack (MongoDB, Express.js, React, Node.js). I enjoy building real-world applications that combine clean backend architecture with responsive, user-friendly interfaces. My experience includes:
+
+Developing RESTful APIs
+
+Implementing secure authentication using JWT
+
+Deploying applications to cloud platforms
+
+🚀 I also explore the intersection of AI and software engineering, with hands-on experience building:
+
+AI-powered chatbots using Retrieval-Augmented Generation (RAG)
+
+Applications leveraging vector databases (Pinecone) and LLMs
+
+Machine learning and deep learning projects focused on real-world use cases
+
+🛠️ Some of my projects include:
+
+DevConnect – A MERN-based developer networking platform (GitHub & Live link on my profile)
+
+Ayurveda AI Chatbot – AI-powered chatbot using RAG, LangChain, and vector databases
+
+Skin Lesion Detection System – Deep learning-based classification system deployed as a web and Android app
+
+Personal Portfolio Website – Built using HTML, CSS, JavaScript
+
+Weather Web App – React-based app with real-time API integration
+
+🔗 Project links and source code are available on my GitHub and in the Featured section of my profile.
+
+🌱 I’m driven by learning through building—whether it’s automation, full-stack systems, or AI-enabled applications—and I aim to grow in roles that value problem-solving, practical engineering, and continuous improvement.
 
 **`📫 How to reach me`**
 <!-- <p>📺 Get YouTube Cards for your profile at <a href="https://itenzin.herokuapp.com/">Portfolio Website</a></p>
