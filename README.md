@@ -61,7 +61,7 @@ Personal Portfolio Website – Built using HTML, CSS, JavaScript
 
 Weather Web App – React-based app with real-time API integration
 
-🔗 Project links and source code are available on my GitHub and in the Featured section of my profile.
+🔗 Project links and source code are available on my <a class="Link--primary" href="(https://itenzin.vercel.app/)">Website</a> 
 
 🌱 I’m driven by learning through building—whether it’s automation, full-stack systems, or AI-enabled applications—and I aim to grow in roles that value problem-solving, practical engineering, and continuous improvement.
 
@@ -84,7 +84,5 @@ Weather Web App – React-based app with real-time API integration
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=TenzinNsut&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
  -->
-**`Languages and Tools:`** 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TenzinNsut&show_icons=true&locale=en&layout=compact" alt="pankajsingh2003" /></p>
 
