@@ -28,12 +28,12 @@
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p> -->
 
-👋 Hi, I’m Tenzin Lekshey, a Computer Science graduate from Netaji Subhas University of Technology (NSUT), Delhi, with a strong interest in building practical and scalable software systems.
+ Hi, I’m Tenzin Lekshey, a Computer Science graduate from Netaji Subhas University of Technology (NSUT), Delhi, with a strong interest in building practical and scalable software systems.
 
-💼 I have experience working as an IT Applications Intern in the Digital Workspace Services (DWS) team at AVASO Technology Solutions, where I contributed to enterprise automation and AI-assisted workflows. My work involved designing, testing, validating, and documenting workflows using Microsoft Copilot Studio and Power Automate.
+I have experience working as an IT Applications Intern in the Digital Workspace Services (DWS) team at AVASO Technology Solutions, where I contributed to enterprise automation and AI-assisted workflows. My work involved designing, testing, validating, and documenting workflows using Microsoft Copilot Studio and Power Automate.
 I was also involved in a Zero-Touch Automation initiative that automated ServiceNow ticket creation from incoming emails, reducing manual effort and improving operational efficiency through system-integrated workflows.
 
-🧩 Alongside this, I have a strong foundation in full-stack web development, particularly with the MERN stack (MongoDB, Express.js, React, Node.js). I enjoy building real-world applications that combine clean backend architecture with responsive, user-friendly interfaces. My experience includes:
+Alongside this, I have a strong foundation in full-stack web development, particularly with the MERN stack (MongoDB, Express.js, React, Node.js). I enjoy building real-world applications that combine clean backend architecture with responsive, user-friendly interfaces. My experience includes:
 
 Developing RESTful APIs
 
@@ -41,7 +41,7 @@ Implementing secure authentication using JWT
 
 Deploying applications to cloud platforms
 
-🚀 I also explore the intersection of AI and software engineering, with hands-on experience building:
+I also explore the intersection of AI and software engineering, with hands-on experience building:
 
 AI-powered chatbots using Retrieval-Augmented Generation (RAG)
 
@@ -49,7 +49,7 @@ Applications leveraging vector databases (Pinecone) and LLMs
 
 Machine learning and deep learning projects focused on real-world use cases
 
-🛠️ Some of my projects include:
+Some of my projects include:
 
 DevConnect – A MERN-based developer networking platform (GitHub & Live link on my profile)
 
@@ -63,7 +63,7 @@ Weather Web App – React-based app with real-time API integration
 
 🔗 Project links and source code are available on my Website: https://itenzin.vercel.app/
 
-🌱 I’m driven by learning through building—whether it’s automation, full-stack systems, or AI-enabled applications—and I aim to grow in roles that value problem-solving, practical engineering, and continuous improvement.
+ I’m driven by learning through building—whether it’s automation, full-stack systems, or AI-enabled applications—and I aim to grow in roles that value problem-solving, practical engineering, and continuous improvement.
 
 **`📫 How to reach me`**
 <!-- <p>📺 Get YouTube Cards for your profile at <a href="https://itenzin.herokuapp.com/">Portfolio Website</a></p>
